@@ -8,7 +8,7 @@
 
 #### 1. 变量与数据类型
 
-*   **基本数据类型**: `byte`, `short`, `int`, `long`, `float`, `double`, `boolean`, `char`
+*   **基本数据类型**: `byte`(1字节=8位), `short`(2字节), `int`(4字节), `long`(8字节), `float`(4字节), `double`(8字节), `boolean`(基本作为int型,数组中boolean占1字节), `char`(2字节)
 *   **引用数据类型**: `String`, 数组, 对象 (类)
 *   **类型转换 (Casting)**:
     *   **自动类型提升**: 小类型到大类型 (如 `int` 到 `double`)，不需要显式声明。
